@@ -2,8 +2,6 @@
 
 **my-ai-app** is a Python-based AI application scaffold designed to help you quickly prototype and build AI-powered features and workflows.
 
-Whether you're experimenting with LLMs, automating workflows, or building smart backends, this template gives you a clean, extensible foundation.
-
 ---
 
 ## 🚀 Features
